@@ -1,6 +1,11 @@
 Group Charter: Bug Slayers
 Meetings: 15 minutes after weekly lab also Monday and Wednesday @7pm if needed
-Group Contacts: through messages
+Group Contacts:
+Shae  sjkuhnke@uwm.edu  (920) 716-2890
+Hanah hlligman@uwm.edu  (715) 321-4610
+Zach  zach.gollinger@gmail.com  (414) 588-5476
+Zai  linhale@uwm.edu  (714) 548-8511
+Matt mdmeyer@uwm.edu  (262) 224-3098
 
 
 Goals:
@@ -19,12 +24,12 @@ Work Norms:
 1. Time commitment required by each group member:
 Time commitment is a difficult thing to determine seeing one member may be able to
 complete the same job in a less amount of time. The goal is to complete the job. If one
-member is taking a substantial amount of time more than the others, it will be examined
+member is taking more than 24 hours past their task deadline, it will be examined
 by the group as to whether their work load should be decreased.
 
 2. Dealing with different work habits:
 The work habits of any particular member will not be an issue as long as the member
-communicates progress, produces quality work, and the work is done by the dates
+communicates progress, produces quality work that adheres to SOLID principles, and the work is done by the dates
 established by the group. If the member does not meet these standards, procedures to deal
 with that member are further detailed in the ground rules.
 
@@ -34,7 +39,7 @@ Meetings:
 1. Length of meetings:
 Meetings may have to take as long as it takes, however meetings longer than 1 ½ hours
 are discouraged. The purpose of meetings is to establish communication and give
-direction to the project, and review and establish deadlines. Meetings once a week should be enough
+direction to the project, and review and establish deadlines. Meetings three times a week should be enough
 unless it is decided by the group that additional meetings should be scheduled. This communication should take
 place through the group email. It is understood that if a meeting takes too long, members
 may have to leave for classes or work obligations. This type of situation will not
@@ -124,17 +129,7 @@ state their case to Rock.
 
 4. Group structure:
 The group shall have the following roles to help the group be more efficient:
-Yoda – This role belongs to the group leader. This jedi master is responsible for the flow
-of the meeting and has a helpful role in the delegation of responsibilities.
-R2-D2 – This role belongs to the meeting note taker. This droid is responsible to take
-notes at all the meetings and to relay the important information and any decisions made
-during the meeting to the other members via email by the end of the next day. They will
-also be responsible for recording any disciplinary actions taken toward any member of
-the group.
-Han Solo – This role belongs to the agenda maker. This member of the rebellion is
-responsible for making an agenda of subjects which need to be covered in the upcoming
-meeting. The agenda shall be emailed to the group before Saturday for a Monday meeting
-and three days before any other meeting.
+There will be a note taker that will rotate weekly down the group contact list.
 If any member in a role does not follow through with his responsibilities on multiple
 occasions or if for some reason a member is not able to perform their duties, they shall be
 replaced by group decision.
@@ -203,12 +198,13 @@ member knows where they stand.
 A minor group offence can occur for breaking indicated statutes of the charter. 
 Minor offenses are 2 missed meeting, not doing doing your work once, not replying within
 a day, not coding up to standards, being tardy to a meeting without notice more than once, 
-and not code reviewing. A record of the minor offence will be recorded by the group assigned note taker.
+not following SOLID principles, and not code reviewing.
+A record of the minor offence will be recorded by the group assigned note taker.
 
 4. Major Group Offence:
 A major group offence can occur by breaking indicated statutes of the charter, or for
 accumulation of 3 or more minor offences. Major offences are missing >2  meetings, not doing your work more than
-2 times in a row, and ghosting the group for >week.
+2 times in a row, and ghosting the group for 3 days.
 
 5. Punishment and Dismissal:
 A group member committing enough minor and major offence then they will be referred to punishment and
